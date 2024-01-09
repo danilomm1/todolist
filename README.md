@@ -1,9 +1,8 @@
-# To-do List API: A FastAPI CRUD App
+# Testing to build a To-do List API: Using FastAPI  to make a CRUD App
 
 This project is a full-stack CRUD app (a todo-list) with a Python FastAPI backend and a
 NextJS frontend. It is hosted on serverless AWS infrastructure (using Lambda and DynamoDB).
 
-![Task API app](task_api.png)
 
 ## API Folder
 
